@@ -9,7 +9,7 @@
 title: Moriarty-co
 email: moriarty@moriarty-co.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is home page of Moriarty corporation and its evel doings.
+  This is home page of Moriarty corporation and its evil doings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://moriarty-co.com" # the base hostname & protocol for your site
 twitter_username: moriarty-co
